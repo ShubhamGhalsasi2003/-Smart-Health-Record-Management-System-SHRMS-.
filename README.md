@@ -1,4 +1,5 @@
-![Django](https://img.shields.io/badge/Tool-Django-green) ![MySQL](https://img.shields.io/badge/Tool-MySQL-blue) ![Java](https://img.shields.io/badge/Tool-Java-orange) ![Swing](https://img.shields.io/badge/Tool-Java_Swing-red)  
+![Django](https://img.shields.io/badge/Tool-Django-green)  ![Java](https://img.shields.io/badge/Tool-Java-orange) ![Swing](https://img.shields.io/badge/Tool-Java_Swing-red)
+![Database](https://img.shields.io/badge/Database-MySQL-blue)  
 ![Records](https://img.shields.io/badge/Data-Patient_Records-lightblue)  
 ![Completed](https://img.shields.io/badge/Status-Completed-success)  
 
