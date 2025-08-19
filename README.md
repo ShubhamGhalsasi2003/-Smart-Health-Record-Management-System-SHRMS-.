@@ -1,3 +1,8 @@
+![Django](https://img.shields.io/badge/Tool-Django-green) ![MySQL](https://img.shields.io/badge/Tool-MySQL-blue) ![Java](https://img.shields.io/badge/Tool-Java-orange) ![Swing](https://img.shields.io/badge/Tool-Java_Swing-red)  
+![Records](https://img.shields.io/badge/Data-Patient_Records-lightblue)  
+![Completed](https://img.shields.io/badge/Status-Completed-success)  
+
+
 # 🏥 Smart Health Record Management System (SHRMS)
 
 SHRMS is a real-time desktop-based Java application designed to digitize and manage health records of patients in clinics and hospitals. It simplifies the workflow of patient registration, record maintenance, and appointment tracking using a Java Swing interface connected to a MySQL database.
