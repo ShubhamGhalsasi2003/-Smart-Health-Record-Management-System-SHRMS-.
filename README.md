@@ -5,24 +5,24 @@
 ![Completed](https://img.shields.io/badge/Status-Completed-success)  
 
 
-# 🏥 Smart Health Record Management System (SHRMS)
+# Smart Health Record Management System (SHRMS)
 
 SHRMS is a real-time desktop-based Java application designed to digitize and manage health records of patients in clinics and hospitals. It simplifies the workflow of patient registration, record maintenance, and appointment tracking using a Java Swing interface connected to a MySQL database.
 
 ---
 
-## 📌 Features
+## Features
 
-- 👤 Patient Registration and Record Entry
-- 📋 Medical History Management
-- 📅 Appointment Scheduling
-- 🔐 Secure Login System for Admin/Doctors
-- 📊 Dashboard to View and Search Patient Records
-- 💾 MySQL Database Integration
+-  Patient Registration and Record Entry
+-  Medical History Management
+-  Appointment Scheduling
+-  Secure Login System for Admin/Doctors
+-  Dashboard to View and Search Patient Records
+-  MySQL Database Integration
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 | Component      | Technology |
 |----------------|------------|
@@ -34,7 +34,7 @@ SHRMS is a real-time desktop-based Java application designed to digitize and man
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 
 SHRMS/
@@ -50,7 +50,7 @@ SHRMS/
 └── README.md
 
 
-## 🔧 How to Run
+##  How to Run
 
 1. **Set Up the Database**
    - Open MySQL and run the script from `database/health_db.sql`.
@@ -66,7 +66,7 @@ SHRMS/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Shubham Ghalsasi**  
 Final Year B.Tech – Cloud Computing  
